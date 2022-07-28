@@ -15,6 +15,6 @@
 
 ---
 # Demo:
-<video src='demo.mp4' width="800" />
+<video src='./demo.mp4' width="800" />
 
 ---
