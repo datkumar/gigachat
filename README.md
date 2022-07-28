@@ -11,6 +11,10 @@
 1. Open Two terminals. Navigate i.e. ```cd``` into [server](./server/) folder in one terminal and [client](./client/) folder in other.
 1. Run `npm install` in both terminals
 1. Run `npm run dev` in both terminals
+1. Open Browser window(s) and type url `http://127.0.0.1:5173` in Search Bar (**NOT** `localhost:5173`)
 
 ---
-<!-- Demo: -->
+# Demo:
+<video src='demo.mp4' width="800" />
+
+---
